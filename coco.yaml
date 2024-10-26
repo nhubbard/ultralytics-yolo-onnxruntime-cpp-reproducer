@@ -1,0 +1,7 @@
+path: /home/gannon/TrainingModel/Dataset
+train: /home/gannon/TrainingModel/Dataset/images/train
+val: /home/gannon/TrainingModel/Dataset/images/val
+
+nc: 5
+
+names: ['Damage', 'Forklift', 'Label', 'Pallet', 'Person']
